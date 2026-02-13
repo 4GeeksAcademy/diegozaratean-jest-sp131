@@ -4,5 +4,6 @@
   },
   "scripts": {
     "test": "jest --coverage"
-  }
+  },
+  "type": "module"
 }
